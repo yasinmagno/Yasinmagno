@@ -4,7 +4,7 @@
 
 ### Estudante de Engenharia Informática
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Java+%7C+Web+%7C+Database" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Desktop+%7C+Web+%7C+Mobile" alt="Typing SVG" />
 
 </div>
 
