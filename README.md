@@ -121,7 +121,7 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 </div>
 
 
-```
+
 
 ---
 
@@ -155,17 +155,12 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 
 ---
 
-## 📌 Repositórios Fixados
-
-⬇️ Confira meus projetos em destaque abaixo ⬇️
-
----
 
 <div align="center">
 
 ### 🚀 Sempre em busca de novos desafios e aprendizados!
 
-![Visitor Count](https://profile-counter.glitch.me/Yasinmagno/count.svg)
+
 
 **💙 Obrigado pela visita!**
 
