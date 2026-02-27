@@ -121,24 +121,6 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 </div>
 
 
-## 🎯 Competências Técnicas
-
-```javascript
-const yasinMagno = {
-    code: ["Java", "JavaScript", "HTML", "CSS", "SQL"],
-    frontend: {
-        web: ["HTML5", "CSS3", "JavaScript"],
-        desktop: ["Java Swing"]
-    },
-    backend: {
-        java: ["POO", "Estruturas de Dados", "Algoritmos"],
-        frameworks: ["Spring (em aprendizagem)"]
-    },
-    databases: ["MySQL", "OracleSQL"],
-    architecture: ["MVC", "Orientação a Objetos", "Clean Code"],
-    currentFocus: "Desenvolvimento Full Stack com Java e Web Technologies",
-    funFact: "Encaro cada projeto como uma oportunidade de evolução técnica!"
-};
 ```
 
 ---
