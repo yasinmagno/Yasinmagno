@@ -96,9 +96,9 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 <div align="center">
 
 <!-- Stats principais -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yasinmagno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FFC8&text_color=E6EDF3" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yasinMagno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FFC8&text_color=E6EDF3" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasinmagno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinMagno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3" />
 
 </div>
 
