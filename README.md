@@ -107,7 +107,7 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 <div align="center">
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasinmagno&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00FFC8&currStreakLabel=00FFC8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinMagno&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00FFC8&currStreakLabel=00FFC8" />
 
 </div>
 
@@ -116,7 +116,7 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasinmagno&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=00D4FF&point=00FFC8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinMagno&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=00D4FF&point=00FFC8" />
 
 </div>
 
@@ -136,10 +136,10 @@ Aplicação para gestão de bar/loja de bebidas com controlo de stock, vendas e 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](seu-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](Yasinmagno.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/857158718)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinmagno07@gmail.com)
 
 </div>
 
