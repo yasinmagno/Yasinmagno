@@ -93,10 +93,10 @@ Aplicação para cálculo e planeamento de materiais necessários a trabalhos de
 
 ## Estatísticas
 
-<p align="center">
+<!--<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasinmagno&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinmagno&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yasinmagno&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
