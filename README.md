@@ -25,9 +25,9 @@
 
 Desenvolvedor de Software com experiência em aplicações web e sistemas empresariais, com atuação em full-stack, backend e bases de dados.
 
-Trabalhei na **Alvor Software** (Fev–Ago 2026) no desenvolvimento de aplicações web e plataformas SaaS em Angular, incluindo o projeto ISPC Fácil. Paralelamente, construo sistemas de gestão e faturação para PMEs moçambicanas — retalho, agropecuária e construção civil.
+Trabalhei na **Alvor Software** (Fev–Ago 2026) no desenvolvimento de aplicações web e plataformas SaaS em Angular. Paralelamente, construo sistemas de gestão e faturação para PMEs moçambicanas — retalho, agropecuária, construção civil e etc...
 
-- Estudante de Engenharia Informática no **ISCTEM**, 3.º ano
+- Estudante de Engenharia Informática no **Instituto Superior de Ciência e Tecnologia de Moçambique**, 3.º ano
 - Formação em **Cloud Computing com Microsoft Azure** (MozDevz, 2026)
 - A aprofundar **React Native**
 - Maputo, Moçambique
