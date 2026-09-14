@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Full-Stack+%7C+Web+%7C+Mobile;Java+%C2%B7+Spring+Boot+%C2%B7+Next.js" alt="Typing SVG"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yasin-magno-23b13a395">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:yasinmagno07@gmail.com">
